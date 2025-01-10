@@ -52,7 +52,6 @@ Here are some ideas to get you started:
 <img src="https://img.icons8.com/color/48/000000/azure-1.png"/> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 <br>
-<br>
 
 ## GitHub Stats 📈 :
 <br>
