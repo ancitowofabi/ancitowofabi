@@ -27,11 +27,9 @@ Here are some ideas to get you started:
 ## Connect with me ☕ :
 
 <br>
-
 [![@ancitowofabi](https://img.icons8.com/fluency/48/000000/instagram-new.png "@ancitowofabi")](https://www.instagram.com/ancitowofabi/) 
 [![@ancitowofabi](https://img.icons8.com/fluency/48/000000/facebook.png "@fabianignacio.carrimanibaca/")](https://www.facebook.com/fabianignacio.carrimanibaca/) 
 [![@ancitowofabi](https://img.icons8.com/fluency/48/000000/linkedin.png "@fabian-carriman")](https://www.linkedin.com/in/fabian-carriman/) 
-
 <br>
 
 ## What I am Good at 🧑‍💻 :
@@ -56,10 +54,10 @@ Here are some ideas to get you started:
 <br>
 
 ## GitHub Stats 📈 :
-
 <br>
 
-[![ancitowofabi GitHub stats](https://github-readme-stats.vercel.app/api?username=ancitowofabi&theme=algolia)](https://github.com/ancitowofabi/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ancitowofabi&theme=algolia)](https://github.com/ancitowofabi/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ancitowofabi&theme=algolia)](https://github.com/ancitowofabi/github-readme-stats) 
+[![ancitowofabi GitHub stats](https://github-readme-stats.vercel.app/api?username=ancitowofabi&theme=algolia)](https://github.com/ancitowofabi/github-readme-stats) 
 
 <br>
 
